@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MessagePreviewComponent implements OnInit {
 
+    image: "http://placehold.it/50x50";
   constructor() { }
 
   ngOnInit() {
